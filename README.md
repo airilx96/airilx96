@@ -2,7 +2,7 @@
 
 ### A passionate fullstack developer, gamer, video editor and system administrator. Born in Malaysia.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=airilx96&label=Profile views&color=0e75b6&style=flat" alt="airilx96" /> </p>
+![](https://komarev.com/ghpvc/?username=airilx96&color=0e75b6&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airilx96" alt="airilx96" /></a> </p>
 
@@ -15,8 +15,6 @@
 - 💬 Ask me about **Laravel, WordPress, FiveM, Roblox Studio**
 
 - ⚡ Fun fact **I can spend countless time in coding.**
-
-- 📝 I regularly write articles on **[https://airilxx.my/](https://airilxx.my/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airilx96&show_icons=true&locale=en" alt="airilx96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airilx96&" alt="airilx96" /></p>
-
